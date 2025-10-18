@@ -3,7 +3,7 @@
 
 
 
-# Dr. Muhammad Waseem
+# Muhammad Waseem
 
 
 AI & Machine Learning Researcher — LLMs, Diffusion Models, Computer Vision
