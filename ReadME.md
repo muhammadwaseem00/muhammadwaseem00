@@ -3,32 +3,6 @@
 
 
 
-Dr. Muhammad Waseem — Research Portfolio
-
- :root{--accent:#1f6feb;--muted:#666;--card:#f7f9fc;--maxw:950px}
- body{font-family:Inter,Segoe UI,Arial,sans-serif;line-height:1.5;color:#222;background:#f3f6f9;margin:0;padding:30px}
- .container{max-width:var(--maxw);margin:0 auto;background:white;padding:28px;border-radius:10px;box-shadow:0 6px 20px rgba(20,30,60,.08)}
- header{display:flex;gap:16px;align-items:center}
- h1{margin:0;font-size:26px}
- .meta{color:var(--muted);font-size:14px}
- .tag{background:var(--card);padding:6px 10px;border-radius:6px;margin-right:8px;font-weight:600;font-size:13px}
- .grid{display:grid;grid-template-columns:1fr 320px;gap:22px;margin-top:18px}
- .card{background:var(--card);padding:14px;border-radius:10px}
- section h2{margin-top:0}
- ul{margin:8px 0 12px 18px}
- .pub,b{font-weight:700}
- .project-list li{margin-bottom:8px}
- footer{margin-top:20px;color:var(--muted);font-size:13px;text-align:center}
- a{color:var(--accent);text-decoration:none}
- .skills{display:flex;flex-wrap:wrap;gap:8px}
- .skill{background:white;border:1px solid #e6eefc;padding:6px 8px;border-radius:6px;font-size:13px}
- @media (max-width:880px){.grid{grid-template-columns:1fr;}.container{padding:16px}}
- 
-
-
-
-
-
 # Dr. Muhammad Waseem
 
 
