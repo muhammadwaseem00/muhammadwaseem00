@@ -3,13 +3,13 @@
 
 
 
-# Muhammad Waseem
+#Dr.Muhammad Waseem
 
 
 AI & Machine Learning Researcher — LLMs, Diffusion Models, Computer Vision
 
 Lahore, Pakistan
-PhD (in progress)
+
 
 
  📧 m.wasi17@gmail.com · 📞 +92 303-7557123 · [LinkedIn](https://linkedin.com/in/muhammadwaseem00) · [GitHub](https://github.com/muhammadwaseem00)
